@@ -1,5 +1,3 @@
-# Programa en línea Patrones Hermosos 
-
 ## Información General 
 El programa profesional en línea de Patrones Hermosos es proporcionar a las universitarias latinoamericanas que estudian carreras en áreas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas) la oportunidad de desarrollar habilidades tanto hard como soft, mientras se familiarizan con la comunidad de Patrones Hermosos y contribuyen al proyecto open-source.
 
@@ -55,17 +53,12 @@ El temario base es:
 ## FAQ
 
 ## Ediciones Pasadas
-### 2021
-|Nombre|Apellidos|Correo|Carrera|Universidad|Lugar|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mariana|Gutierrez|mariana.gtzc08@gmail.com|TI|Universidad Panamericana|CDMX,MX|
-|Daniela|Ahumada|danahuv13@gmail.com |TI|Universidad Panamericana|CDMX,MX|
-
-### 2022
-|Nombre|Apellidos|Correo|Carrera|Universidad|Estado|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Fernanda|Zavala|zfernanda631@gmail.com|Inteligencia Artificial|Universidad Panamericana|CDMX,MX|
-|Cristina|Velázquez|mcristinavg01@gmail.com|Inteligencia Artificial|Universidad Panamericana|CDMX,MX|
+| Programa en línea 	| Nombre             	| Correo                   	| Universidad              	| Carrera                 	| Lugar                	| Programa en el MIT 	|
+|-------------------	|--------------------	|--------------------------	|--------------------------	|-------------------------	|----------------------	|--------------------	|
+| 2021              	| Mariana Gutiérrez  	| mariana.gtzc08@gmail.com 	| Universidad Panamericana 	| TI                      	| Ciudad de México, MX 	| 2022               	|
+| 2021              	| Daniela Ahumada    	| danahuv13@gmail.com      	| Universidad Panamericana 	| TI                      	| Ciudad de México, MX 	| 2022               	|
+| 2021-2022         	| Fernanda Zavala    	| zfernanda631@gmail.com   	| Universidad Panamericana 	| Inteligencia Artificial 	| Aguascalientes, MX   	| 2023               	|
+| 2021-2022         	| Cristina Velázquez 	| mcristinavg01@gmail.com  	| Universidad Panamericana 	| Inteligencia Artificial 	| Aguascalientes, MX   	| 2023               	|
 
 ## Contacto
 - Mariana Gutiérrez, Program Lead (mariana.gtzc08@gmail.com)
