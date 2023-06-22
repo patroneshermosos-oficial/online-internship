@@ -1,8 +1,9 @@
 # Programa en línea Patrones Hermosos 
 
 ## Información General 
-El programa profesional para universitarias en línea de Patrones Hermosos es un programa de un año en el que a través de diversas actividades y proyectos podrás desarrollar habilidades tanto hard como soft mientras conoces más de la comunidad Patrones Hermosos y aportas al proyecto open-source. 
-Después del programa en línea, los participantes tienen opción de aplicar a un programa de verano en el MIT (en Cambridge MA, USA) y trabajar de la mano del director y fundador de Patrones Hermosos, el Dr. Abel Sánchez. 
+El programa profesional en línea de Patrones Hermosos es proporcionar a las universitarias latinoamericanas que estudian carreras en áreas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas) la oportunidad de desarrollar habilidades tanto hard como soft, mientras se familiarizan con la comunidad de Patrones Hermosos y contribuyen al proyecto open-source.
+
+Además, brinda la posibilidad de aplicar a un programa de verano en el MIT, trabajando junto al director y fundador de Patrones Hermosos, el Dr. Abel Sánchez.
 
 ## Introducción
 ### Audiencia
