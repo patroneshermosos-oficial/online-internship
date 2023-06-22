@@ -48,5 +48,20 @@ Empiezan entrevistas en marzo. A principios de abril se anuncian a las participa
   - Que pasa después del programa
   - Quienes son seleccionadas para verano en Boston y equipo oficial Patrones Hermosos
 ## FAQ
+
+## Ediciones Pasadas
+### 2021
+|Nombre|Apellidos|Correo|Carrera|Universidad|Lugar|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mariana|Gutierrez|mariana.gtzc08@gmail.com|TI|Universidad Panamericana|CDMX,MX|
+|Daniela|Ahumada|danahuv13@gmail.com |TI|Universidad Panamericana|CDMX,MX|
+
+### 2022
+|Nombre|Apellidos|Correo|Carrera|Universidad|Estado|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Fernanda|Zavala|zfernanda631@gmail.com|Inteligencia Artificial|Universidad Panamericana|CDMX,MX|
+|Cristina|Velázquez|mcristinavg01@gmail.com|Inteligencia Artificial|Universidad Panamericana|CDMX,MX|
+
 ## Contacto
-  - Datos de gente o correo BP
+Mariana Gutiérrez, Program Lead (mariana.gtzc08@gmail.com)
+Carolina Barreiro, Communication Director (cbv@mit.edu)
