@@ -44,9 +44,10 @@ Empiezan entrevistas en marzo. A principios de abril se anuncian a las participa
   - Material
   - Prework
 
-- Sig. Pasos
+## Siguientes Pasos
   - Que pasa después del programa
   - Quienes son seleccionadas para verano en Boston y equipo oficial Patrones Hermosos
+
 ## FAQ
 
 ## Ediciones Pasadas
@@ -63,5 +64,5 @@ Empiezan entrevistas en marzo. A principios de abril se anuncian a las participa
 |Cristina|Velázquez|mcristinavg01@gmail.com|Inteligencia Artificial|Universidad Panamericana|CDMX,MX|
 
 ## Contacto
-Mariana Gutiérrez, Program Lead (mariana.gtzc08@gmail.com)
-Carolina Barreiro, Communication Director (cbv@mit.edu)
+- Mariana Gutiérrez, Program Lead (mariana.gtzc08@gmail.com)
+- Carolina Barreiro, Communication Director (cbv@mit.edu)
