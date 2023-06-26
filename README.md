@@ -53,6 +53,7 @@ El temario base es:
 ## FAQ
 
 ## Ediciones Pasadas
+
 | Programa en línea 	| Nombre             	| Correo                   	| Universidad              	| Carrera                 	| Lugar                	| Programa en el MIT 	|
 |-------------------	|--------------------	|--------------------------	|--------------------------	|-------------------------	|----------------------	|--------------------	|
 | 2021              	| Mariana Gutiérrez  	| mariana.gtzc08@gmail.com 	| Universidad Panamericana 	| TI                      	| Ciudad de México, MX 	| 2022               	|
